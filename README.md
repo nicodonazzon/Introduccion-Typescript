@@ -23,11 +23,11 @@ A lo largo del curso veremos en detalle las diferencias y como configurar este p
 
 Una vez dicho esto, ahora pasamos a las principales ventajas de TypeScript:
 
-1. Es su capacidad para agregar tipos estáticos a nuestras variables, parámetros de función y valores de retorno. ¿Qué significa esto? Básicamente, podemos especificar el tipo de datos esperado en cada parte de nuestro código, lo que nos ayudará a detectar errores y evitar comportamientos inesperados. 
+1.Es su capacidad para agregar tipos estáticos a nuestras variables, parámetros de función y valores de retorno. ¿Qué significa esto? Básicamente, podemos especificar el tipo de datos esperado en cada parte de nuestro código, lo que nos ayudará a detectar errores y evitar comportamientos inesperados. 
 
-2. La verificación de tipos se realiza durante la etapa de compilación, lo que nos permite encontrar y corregir errores antes de que nuestro código se ejecute. Esto nos brinda una mayor confianza en la calidad de nuestras aplicaciones y nos ahorra tiempo de depuración.
+2.La verificación de tipos se realiza durante la etapa de compilación, lo que nos permite encontrar y corregir errores antes de que nuestro código se ejecute. Esto nos brinda una mayor confianza en la calidad de nuestras aplicaciones y nos ahorra tiempo de depuración.
 
-3. TypeScript también nos ofrece otras características poderosas, como el soporte para clases y interfaces. Estos conceptos nos permiten organizar nuestro código de una manera más estructurada y legible, siguiendo los principios de la programación orientada a objetos. 
+3.TypeScript también nos ofrece otras características poderosas, como el soporte para clases y interfaces. Estos conceptos nos permiten organizar nuestro código de una manera más estructurada y legible, siguiendo los principios de la programación orientada a objetos. 
 
 4.Este lenguaje se integra a la perfección con las herramientas y frameworks existentes de JavaScript, lo que lo hace ideal para proyectos grandes y complejos. Imaginen trabajar en un proyecto de envergadura sin tener que preocuparse constantemente por los errores tipográficos o el uso incorrecto de las funciones.
 
